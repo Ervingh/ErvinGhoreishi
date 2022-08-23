@@ -1,0 +1,96 @@
+.main{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 10px 10px 10px black;
+    letter-spacing: 3px;
+    color: white;
+    margin-top: 2cm;
+    text-transform: capitalize;
+    
+}
+.pic{
+    border-radius: 50%;
+    width: 3cm;
+    height: 2.8cm;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 16.6cm;
+}
+.para{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: x-large;
+    text-shadow: 10px 10px 10px black;
+    letter-spacing: 2px;
+    color: white;
+    margin-top: .5cm;
+}
+/*taskbar*/
+.menu{
+    border: 1px solid white;
+    border-radius: 20px;
+    text-align: right;
+    margin-left: 32cm;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 3cm;
+    
+}
+.colorfix{
+    text-shadow: 10px 10px 10px black; 
+    color: white;
+    letter-spacing: 3px;
+}
+.pointer{
+    cursor: pointer;
+}
+.placefix{
+    text-align: right;
+    display: block;  
+}
+.f1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+.emailgetter{
+    text-align: center;
+    border: 3px solid white;
+    margin-left: 14.5cm;
+    margin-right: auto;
+    margin-top: 10px;
+    padding-left: 50px;
+    padding-right: 40px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.submitgetter{
+    border: 3px solid white;
+    margin-left: 16.8cm;
+    margin-top: 5px;
+    padding-left: .5cm;
+    padding-right: .5cm;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+    color: white;
+    letter-spacing: 1px;
+    text-shadow: 10px 10px 10px black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+.info{
+    text-align: center;
+    margin-top: 1px;
+    margin-bottom: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 10px 10px 10px black;
+    color: white;
+}
+.cir{
+    border: 1px solid white;
+    border-radius: 50%;
+    text-align: right;
+    padding-left: 9px;
+    margin-left: 35cm;
+    text-shadow: 10px 10px 10px black;
+}
